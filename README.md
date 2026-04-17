@@ -118,8 +118,8 @@ Pose-Estimation-on-NXP-iMX/
 > If you are on **Windows**, please follow the steps in [Windows Git Line Ending Setup](./windows-git-setup.md) before cloning to ensure scripts and configuration files work correctly on Device.
 
 ```bash
-git clone https://github.com/Advantech-EdgeSync-Containers/Nagarro-Container-Project.git
-cd Nagarro-Container-Project
+git clone https://github.com/Advantech-Containers/Pose-Estimation-on-NXP-iMX.git
+cd Advantech-Containers
 ```
 
 ### Transfer the `Pose-Estimation-on-NXP-iMX` Folder to EPC-R3720 Board
