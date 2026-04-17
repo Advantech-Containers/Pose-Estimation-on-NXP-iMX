@@ -3,7 +3,7 @@ version: "3.8"
 services:
   pose-estimation-on-nxp-imx:
     container_name: pose-estimation-on-nxp-imx
-    image: harbor.edgesync.cloud/nagarro-container-images/pose-estimation-on-nxp-imx:v1
+    image: edgesync.azurecr.io/advantech/object-classification-on-nxp-i-mx-m-plus:1.0.0-Ubuntu22.04-ARM
     privileged: true
     environment:
       - DISPLAY=${DISPLAY}
